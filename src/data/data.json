@@ -1,0 +1,162 @@
+
+{
+    "BankAccountData": {
+      "bankName": "Chase",
+      "Balance": -10
+    },
+    "UserConfigs": {
+      "threshold": 15000
+    },
+    "Transactions": [
+      {
+        "ID": 1,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 2,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 3,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 4,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 1,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 5,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 6,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 7,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 1,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 8,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      },
+      {
+        "ID": 9,
+        "Amount": -200,
+        "Description": "iPad, Apple Inc.",
+        "Date": "2016-05-01"
+      }
+    ],
+
+
+    "Invoices": [
+        {
+          "ID": 1,
+          "ClientName": "Michael Scoot",
+          "Amount": -500,
+          "isPaid": true
+        },
+        {
+            "ID": 2,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": false
+          },
+          {
+            "ID": 3,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 4,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 5,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 6,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 7,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 8,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 9,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 10,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 11,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 12,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          },
+          {
+            "ID": 13,
+            "ClientName": "Michael Scoot",
+            "Amount": -500,
+            "isPaid": true
+          }
+      ]
+}
+
+
