@@ -34,7 +34,6 @@ class Invoice extends React.Component {
   }
 
   hanldeCancel = (e) =>{
-    // Validation needed here..
     const value = e.target.value;
     this.setState({
       ...this.state,
