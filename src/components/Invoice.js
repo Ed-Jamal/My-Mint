@@ -33,6 +33,15 @@ class Invoice extends React.Component {
     });
   }
 
+  hanldeCancel = (e) =>{
+    // Validation needed here..
+    const value = e.target.value;
+    this.setState({
+      ...this.state,
+      [e.target.name]: value,
+    });
+  }
+  
   render() {
     const {invoice} = this.props;
     const {editEnabled, clientName, amount} = this.state;
